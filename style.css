@@ -1,0 +1,20 @@
+body {
+    background-color: #ff6cff;
+    min-height: 200px;
+}
+.jumbotron {
+    padding-top:  3.5em;
+    background-color: #ffccff;
+}
+#sejarah{
+    background-color: #ffccff;
+}
+iframe {
+    margin: 0 auto;
+    display: block;
+    border-style:none;
+}
+
+#spotif {
+    background-color: #ff6cff !important; 
+}
